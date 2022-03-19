@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afde86cf-e01f-47df-b635-6aa276728d1c": {
+      "ProjectGuid": "afde86cf-e01f-47df-b635-6aa276728d1c",
+      "DisplayName": "rock paper scissors",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
